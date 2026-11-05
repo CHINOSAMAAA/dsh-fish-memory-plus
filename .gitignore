@@ -27,3 +27,10 @@ tmp/
 fish-memory*/
 fish-memory-*.json
 qq-bridge-*.json
+
+# Embedding 评估临时输出与本地凭据
+evaluation-output/
+.env
+.env.*
+.credentials.yaml
+*.tgz
