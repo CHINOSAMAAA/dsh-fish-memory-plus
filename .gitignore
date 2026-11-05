@@ -11,3 +11,19 @@ fish-memory/
 .DS_Store
 Thumbs.db
 node_modules/
+
+# AI 开发临时产物（使用文档与回归测试仍纳入版本控制）
+.ai/
+.codex/
+.local-backups/
+artifacts/
+tmp/
+开发记录/
+开发者备忘.md
+*.tmp
+*.log
+
+# 本地 QQ 来源、记忆备份与迁移原件
+fish-memory*/
+fish-memory-*.json
+qq-bridge-*.json
