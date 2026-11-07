@@ -42,7 +42,7 @@ dsh plugin --profile web add github:CHINOSAMAAA/dsh-fish-memory-plus
 
 桌面版通过应用内插件管理器操作，安装后按宿主提示重载或重启。QQ 相关扩展需搭配 [dsh-qq-link-plus](https://github.com/CHINOSAMAAA/dsh-qq-link-plus)。
 
-> Plus 当前保留原包名 `dsh-fish-memory` 和 `/dsh-fish-memory/*` 接口，请按上述 GitHub 地址安装。同一环境不要同时启用原版、Plus 或已内置本模块的 [大肥鱼整合包](https://github.com/CHINOSAMAAA/dsh-big-flsh-aio)。
+> Plus 当前保留原包名 `dsh-fish-memory` 和 `/dsh-fish-memory/*` 接口，请按上述 GitHub 地址安装。同一环境不要同时启用原版、Plus 或已内置本模块的 [大肥鱼整合包](https://github.com/CHINOSAMAAA/dsh-big-fish-aio)。
 
 ### QQ 记忆隔离
 
